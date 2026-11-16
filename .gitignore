@@ -1,0 +1,10 @@
+data/
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
+app_old.py
+app_backup.py
+arduino.py

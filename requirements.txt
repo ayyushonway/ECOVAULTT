@@ -1,0 +1,5 @@
+Flask>=3.0
+qrcode[pil]>=7.4
+pyserial>=3.5
+gunicorn>=22.0
+psycopg[binary]>=3.2
